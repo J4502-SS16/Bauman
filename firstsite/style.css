@@ -9,8 +9,8 @@ body{
 #main{
   width:500px;
   float:left;
-  background-color: blue;
-  color: pink;
+  background-color: red;
+  color: white;
   font-size: 20px;
   font-weight: bold;
 }
