@@ -1,0 +1,12 @@
+body{
+  font-family: Lucida, Helvetica, Arial, sans-serif;
+}
+.photo{
+  border-style:none;
+  float:right;
+  width:100px;
+}
+
+#main{
+  float:right;
+}
