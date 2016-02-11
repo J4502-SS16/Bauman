@@ -4,6 +4,12 @@ body{
 .photo{
   border-style:none;
   padding-left: 3px;
+  float: right;
+}
+
+h1{
+  font-size: 25px;
+  float: left;
 }
 
 #main{
@@ -24,6 +30,8 @@ body{
   width:auto;
   background-color: blue;
   color: #fff;
+  float: left;
+  
 
 }
 
