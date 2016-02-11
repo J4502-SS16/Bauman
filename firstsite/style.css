@@ -22,8 +22,8 @@ body{
 
 #sidebar{
   width:auto;
-  background-color: #98bf21;
-  color: blue;
+  background-color: blue;
+  color: #fff;
 
 }
 
@@ -46,4 +46,8 @@ body{
   font-weight: bold;
   color: #fff;
   background-color: red;
+}
+
+#nav a:hover, #nav a:active{
+  background-color: blue
 }
